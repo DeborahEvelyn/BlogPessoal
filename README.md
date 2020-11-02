@@ -1,2 +1,2 @@
 # blogPessoal
-Blog pessoal com Angular. Módulo III da generation Brasil.
+Blog pessoal feito com Angular. Módulo III(Front-end) do Bootcamp da Generation Brasil.
