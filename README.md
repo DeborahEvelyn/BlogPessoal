@@ -1,2 +1,3 @@
 # blogPessoal
-Blog pessoal com Angular. Módulo III da generation Brasil.
+:dart: Blog pessoal com Angular. 
+Módulo III da Generation Brasil.
