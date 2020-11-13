@@ -1,4 +1,4 @@
 
-:dart: Blog pessoal com Angular. 
-Módulo III da Generation Brasil.
+:dart: **Blog pessoal com Angular. 
+Módulo III da Generation Brasil.**
 
